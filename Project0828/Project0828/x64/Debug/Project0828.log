@@ -1,3 +1,0 @@
-﻿  0828.c
-E:\c\test-c\Project0828\Project0828\0828.c(16,2): warning C4013: “memset”未定义；假设外部返回 int
-  Project0828.vcxproj -> E:\c\test-c\Project0828\x64\Debug\Project0828.exe
